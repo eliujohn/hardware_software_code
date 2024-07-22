@@ -1,8 +1,3 @@
-# Author: [Your Name]
-# Program Name: Decimal and Binary Converter
-# Purpose: This program converts decimal numbers to binary and binary numbers to decimal.
-# Description: The program provides a menu for the user to choose the type of conversion.
-# It validates the input and performs the conversion using loops.
 
 def binary_to_decimal(binary_number):
     """Convert a binary number to a decimal number."""
